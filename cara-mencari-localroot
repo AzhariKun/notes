@@ -1,0 +1,25 @@
+cara kesatu, cara mencari tipe localrootnya
+
+$ uname -a > kan muncul linux ubuntu 3.13.0 ataupun semacemnya
+
+$ cat /etc/issue > nanti muncul Ubuntu 14.04
+
+ 
+
+jadi yang kita cari "ubuntu 14.04 3.13.0 root exploiter" di manapun contohnya exploit-db
+
+ 
+
+~~~~
+
+ 
+
+cara kedua,paste aja kernel nya, trus akhiran di tambahin exploit
+
+misalnya : Linux server 5.4.0-65-generic #73-Ubuntu SMP Mon Jan 18 17:25:17 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
+
+ 
+
+Lalu paste 5.4-0-65-generic localroot
+
+ 
